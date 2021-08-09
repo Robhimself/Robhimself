@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Robhimself, Robert, Rob, Robby, Bobby, Bob. 
+- 👋 Hi, I’m Robert. 
 - 👀 I’m interested in computers! Everything digital really. From gaming to crypto.
 - 🌱 I’m currently learning web development, and will probably start building small projects from The Odin Project first,
       until I'm proficient enough to build my own ideas and projects.
