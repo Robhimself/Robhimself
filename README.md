@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Robert. 
 - 👀 I’m interested in computers! Everything digital really. From gaming to crypto.
-- 🌱 I’m currently learning web development, and will probably start building small projects from The Odin Project first,
-      until I'm proficient enough to build my own ideas and projects.
+- 🌱 I’m currently learning penetration testing, working through https://tryhackme.com/ - https://academy.hackthebox.com/ and https://app.hackthebox.com/. It's fun, engaging and I love it!
 - 💞️ I’m looking to collaborate on everything I can. 
-- 📫 How to reach me on Discord: Robhimself#3281
-
+<br>
+- <a href="https://tryhackme.com/p/Robhimself">THM-Profile</a><p>
+- <a href="https://app.hackthebox.com/profile/796754">HTB-Profile</a><p>
+(It's not much now, since I'm working on getting the basics... But it will get a lot better)
 <!---
 Robhimself/Robhimself is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
