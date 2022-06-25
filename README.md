@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robert. 
 - 👀 I’m interested in computers! Everything digital really. From gaming to crypto.
-- 🌱 I’m currently learning penetration testing, working through https://tryhackme.com/ - https://academy.hackthebox.com/ and https://app.hackthebox.com/. It's fun, engaging and I love it!
+- 🌱 I’m currently learning programming and penetration testing, working through https://tryhackme.com/ - https://academy.hackthebox.com/ and https://app.hackthebox.com/. Also TCM's courses. It's fun, engaging and I love it!
 - 💞️ I’m looking to collaborate on everything I can. 
 <br>
 - <a href="https://tryhackme.com/p/Robhimself">THM-Profile</a><p>
