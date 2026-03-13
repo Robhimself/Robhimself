@@ -11,3 +11,5 @@ I'm a junior software developer with a background in the oil industry, where I w
 - Learning rust
 - Gaming
 - Disc Golf
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robhimself&show_icons=true&locale=en" alt="xnemix" /></p>
